@@ -1,4 +1,4 @@
 # hello-world
 helleoworld
 
-registergit succeed
+registergit succeed goo
